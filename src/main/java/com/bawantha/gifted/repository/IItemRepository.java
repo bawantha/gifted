@@ -1,6 +1,6 @@
 package com.bawantha.gifted.repository;
 
-import com.bawantha.gifted.dao.Item;
+import com.bawantha.gifted.entities.Item;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

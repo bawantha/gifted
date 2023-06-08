@@ -1,12 +1,9 @@
 package com.bawantha.gifted.services;
 
-import com.bawantha.gifted.dao.Item;
-import org.springframework.data.domain.Page;
+import com.bawantha.gifted.entities.Item;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;
-import java.net.MalformedURLException;
-import java.time.LocalDate;
 import java.util.List;
 
 /**
